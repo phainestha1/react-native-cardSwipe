@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-native-ineraction",
+    "slug": "react-native-ineraction",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-native-ineraction"
+}
